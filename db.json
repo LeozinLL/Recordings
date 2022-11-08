@@ -1,5 +1,5 @@
 [
-  [
+  {
     {
     "time": "2022-09-08T01:22:12.808Z",
     "url": "",
@@ -48,5 +48,5 @@
     "urlJaas": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/td8FvocZYHl8u-SX3YzJq5URyqiZTyEZQAuganJn3pjQtvE_CxOlQWr2t25hbybF/n/fr4eeztjonbe/b/vpaas-recordings-prod-8x8-sa-saopaulo-1/o/vpaas-magic-cookie-c9fe56f233d24111b169997bedb62d63/mzdulsbuowkkimll/mentoriastart_2022-11-02-23-43-57.mp4",
     "uuid": "3e64e0bc-0bc6-4ec1-8736-1f1116a6e489"
   }
- ]
+ }
 ]
