@@ -1,5 +1,6 @@
-[
-  {
+{
+  "recordings": [
+    {
     "time": "2022-09-21T23:27:26.304Z",
     "url": "",
     "urlJaas": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/hJahwti2Xlmh1jIRppxjpjfnnrsm4pHDY4jBsWVyvimS6LS2VvJp0ffshQDmAwd2/n/fr4eeztjonbe/b/vpaas-recordings-prod-8x8-sa-saopaulo-1/o/vpaas-magic-cookie-c9fe56f233d24111b169997bedb62d63/jikhxizqknglyhls/mentoriastart_2022-09-21-23-25-27.mp4",
@@ -23,4 +24,5 @@
     "urlJaas": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/z7aNmLZP5xV5vyWa7vLQuEAVcOWonA_6tVnhvW3udNxOqUBLCvYq54XdvL9VPQmX/n/fr4eeztjonbe/b/vpaas-recordings-prod-8x8-sa-saopaulo-1/o/vpaas-magic-cookie-c9fe56f233d24111b169997bedb62d63/yfqwmpasogvdlwja/mentoriastart_2022-10-05-23-15-01.mp4",
     "uuid": "d902a61d-0dad-41d0-abf3-5dba5be1a225"
   }
+ ]
 ]
